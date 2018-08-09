@@ -30,4 +30,4 @@ const view = () =>
 app({}, {}, view, document.body)
 ```
 
-Most non-deprecated svg elements are supported, check [/src/svg-tags.json](svg-tags.json) for the list of available svg tags.
+Most non-deprecated svg elements are supported, check [svg-tags.json](/src/svg-tags.json) for the list of available svg tags.
