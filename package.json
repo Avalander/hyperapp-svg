@@ -18,6 +18,7 @@
     "svg",
     "hyperscript"
   ],
+  "repository": "https://github.com/Avalander/hyperapp-svg",
   "author": "Avalander",
   "license": "MIT",
   "devDependencies": {
