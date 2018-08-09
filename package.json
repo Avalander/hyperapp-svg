@@ -11,7 +11,7 @@
     "precompile": "rimraf ./dist && mkdir dist",
     "compile": "node ./scripts/compile.js",
     "test": "jest --coverage --no-cache --testURL=\"http://localhost/\"",
-    "prepublish": "npm run compile && npm test"
+    "prepare": "npm run compile && npm test"
   },
   "keywords": [
     "hyperapp",
